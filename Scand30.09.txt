@@ -1,0 +1,795 @@
+#EXTM3U
+#EXTINF:-1,|SW| SVT 1 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98089
+#EXTINF:-1,|SW| SVT 2 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98090
+#EXTINF:-1,|SW| TV3 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98091
+#EXTINF:-1,|SW| TV4 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98092
+#EXTINF:-1,|SW| KANAL 5 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98093
+#EXTINF:-1,|SW| TV 6 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98094
+#EXTINF:-1,|SW| SJUAN HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98095
+#EXTINF:-1,|SW| TV8 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98096
+#EXTINF:-1,|SW| KANAL 9 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98097
+#EXTINF:-1,|SW| KANAL 10 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/162975
+#EXTINF:-1,|SW| TV 10 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98098
+#EXTINF:-1,|SW| KANAL 11 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98099
+#EXTINF:-1,|SW| TV 12 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98100
+#EXTINF:-1,|SW| TV4 FAKTA HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98102
+#EXTINF:-1,|SW| TV 4 GULD HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98103
+#EXTINF:-1,|SW| TV 4 FILM HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98104
+#EXTINF:-1,|SW| BARNEKANALEN
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98105
+#EXTINF:-1,|SW| H2 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98106
+#EXTINF:-1,|SW| SVT KUNSKAPSKANALEN HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98107
+#EXTINF:-1,|SW| GODARE HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/162973
+#EXTINF:-1,|SW| SVT1 VÄST
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/162974
+#EXTINF:-1,===== SW ENTERTAINMENT =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98108
+#EXTINF:-1,|SW| TLC HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98111
+#EXTINF:-1,|SW| ATG LIVE
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98112
+#EXTINF:-1,|SW| COMEDY CENTRAL
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98113
+#EXTINF:-1,|SW| SF-KANALEN [MULTI-SUB]
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98114
+#EXTINF:-1,|SW| SVT24/B HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98115
+#EXTINF:-1,|SW| VIASAT EXPLORER FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98116
+#EXTINF:-1,===== SW DOCUMETARY =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98117
+#EXTINF:-1,|SW| BBC BRIT FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98118
+#EXTINF:-1,|SW| BBC EARTH HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98119
+#EXTINF:-1,|SW| DISCOVERY HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98120
+#EXTINF:-1,|SW| DISCOVERY SCIENCE HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98121
+#EXTINF:-1,|SW| NAT GEO HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98122
+#EXTINF:-1,|SW| NATIONAL GEOGRAPHIC WILD HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98123
+#EXTINF:-1,|SW| VIASAT NATURE
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98124
+#EXTINF:-1,|SW| VIASAT HISTORY
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98125
+#EXTINF:-1,|SW| ID INVESTIGATION DISCOVERY
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98126
+#EXTINF:-1,|SW| HISTORY HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98127
+#EXTINF:-1,|SW| ANIMAL PLANET HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98128
+#EXTINF:-1,|SW| DISCOVERY+ 1
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/162960
+#EXTINF:-1,|SW| DISCOVERY+ 2
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/162961
+#EXTINF:-1,|SW| DISCOVERY+ 3
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/162962
+#EXTINF:-1,|SW| DISCOVERY+ 4
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/162963
+#EXTINF:-1,|SW| DISCOVERY+ 5
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/162964
+#EXTINF:-1,|SW| DISCOVERY+ 6
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/162965
+#EXTINF:-1,|SW| DISCOVERY+ 7
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/162966
+#EXTINF:-1,|SW| DISCOVERY+ 8
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/162967
+#EXTINF:-1,|SW| Discovery+ 9
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189856
+#EXTINF:-1,|SW| Discovery+ 10
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189857
+#EXTINF:-1,|SW| Discovery+ 11
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189858
+#EXTINF:-1,|SW| Discovery+ 12
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189859
+#EXTINF:-1,|SW| Discovery+ 13
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189860
+#EXTINF:-1,|SW| Discovery+ 14
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189861
+#EXTINF:-1,|SW| Discovery+ 15
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189862
+#EXTINF:-1,===== SW KIDS =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98130
+#EXTINF:-1,|SW| DISNEY CHANNEL HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98131
+#EXTINF:-1,|SW| DISNEY JUNIOR HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98132
+#EXTINF:-1,|SW| BOOMERANG HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98134
+#EXTINF:-1,|SW| NICK TOONS
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98135
+#EXTINF:-1,|SW| NICK JR HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98136
+#EXTINF:-1,|SW| NICKELODEON HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98137
+#EXTINF:-1,|SW| CARTOON NETWORK HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98138
+#EXTINF:-1,===== SW MOVIES =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98139
+#EXTINF:-1,|SW| VIASAT FILM ACTION
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98140
+#EXTINF:-1,|SW| VIASAT FILM FAMILLY
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98141
+#EXTINF:-1,|SW| VIASAT FILM HITS
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98142
+#EXTINF:-1,|SW| VIASAT FILM PREMIERA
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98143
+#EXTINF:-1,|SW| VIASAT SERIES
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98144
+#EXTINF:-1,|SW| C MORE LIVE 2 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98145
+#EXTINF:-1,|SW| C MORE LIVE 3 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98146
+#EXTINF:-1,|SW| C MORE LIVE 4 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98147
+#EXTINF:-1,|SW| C MORE LIVE 5 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98148
+#EXTINF:-1,|SW| C MORE LIVE HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98149
+#EXTINF:-1,|SW| C MORE FIRST HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98150
+#EXTINF:-1,|SW| C MORE HITS HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98151
+#EXTINF:-1,|SW| C MORE SERIES HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98152
+#EXTINF:-1,|SW| C MORE STARS HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98153
+#EXTINF:-1,|SW| SNAP TIME 1 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/162968
+#EXTINF:-1,|SW| SNAP TIME 2 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/162969
+#EXTINF:-1,|SW| SNAP TIME 3 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/162970
+#EXTINF:-1,|SW| SNAP TIME 4 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/162971
+#EXTINF:-1,|SW| SNAP TIME 5 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/162972
+#EXTINF:-1,===== SW MUSIC =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98154
+#EXTINF:-1,|SW| MTV HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98155
+#EXTINF:-1,===== SW SPORTS =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98156
+#EXTINF:-1,|SW| C MORE FOTBOLL HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98157
+#EXTINF:-1,|SW| VIASAT SPORT EXTRA HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98158
+#EXTINF:-1,|SW| VIASAT SPORT ULTRA HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189855
+#EXTINF:-1,|SW| C MORE GOLF FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98159
+#EXTINF:-1,|SW| C MORE HOCKEY HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98160
+#EXTINF:-1,|SW| EUROSPORT 1 UHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98161
+#EXTINF:-1,|SW| EUROSPORT 2 UHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98162
+#EXTINF:-1,|SW| VIASAT FOTBOLL HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98163
+#EXTINF:-1,|SW| VIASAT GOLF
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98164
+#EXTINF:-1,|SW| VIASAT HOCKEY HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98165
+#EXTINF:-1,|SW| VIASAT MOTOR HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98166
+#EXTINF:-1,|SW| VIASAT SPORT HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98167
+#EXTINF:-1,|SW| VIASAT SPORT PREMIUM HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98168
+#EXTINF:-1,|SW| VIASAT ULTRA HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98169
+#EXTINF:-1,|SW| SPORT KANALEN HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98170
+#EXTINF:-1,|SW| STRIVE SPORT 1 FHD  (Live During Events Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/98171
+#EXTINF:-1,|SW| VIASAT SPORT EXTRA
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/162976
+#EXTINF:-1,|SW| AL-JAZEERA
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189839
+#EXTINF:-1,|SW| MTV 00S
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189840
+#EXTINF:-1,|SW| BBC WORLD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189841
+#EXTINF:-1,|SW| CNN SD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189842
+#EXTINF:-1,|SW| FIGHT SPORT FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189843
+#EXTINF:-1,|SW| V SPORT FOOTBALL
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189844
+#EXTINF:-1,|SW| KANALE5 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189845
+#EXTINF:-1,|SW| SPORT EXPRESSEN TV HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189846
+#EXTINF:-1,|SW| SVT BARN HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189847
+#EXTINF:-1,|SW| TRAVEL CHANNEL FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189848
+#EXTINF:-1,|SW| DI TV HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189849
+#EXTINF:-1,|SW| AXESS TV FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189850
+#EXTINF:-1,|SW| HORSE & COUNTRY TV SD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189851
+#EXTINF:-1,|SW| CURIOUSITY STREAM FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189852
+#EXTINF:-1,|SW| Paramount+ Movies HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189853
+#EXTINF:-1,|SW| Paramount+ Series HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189854
+#EXTINF:-1,|SW| C MORE EVENT 1 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189863
+#EXTINF:-1,|SW| C MORE EVENT 2 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189864
+#EXTINF:-1,|SW| C MORE EVENT 3 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189865
+#EXTINF:-1,|SW| C MORE EVENT 4 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189866
+#EXTINF:-1,|SW| C MORE EVENT 5 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189867
+#EXTINF:-1,|SW| C MORE EVENT 6 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189868
+#EXTINF:-1,|SW| C MORE EVENT 7 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189869
+#EXTINF:-1,|SW| C MORE EVENT 8 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189870
+#EXTINF:-1,|SW| C MORE EVENT 9 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189871
+#EXTINF:-1,|SW| C MORE EVENT 10 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189872
+#EXTINF:-1,|SW| C MORE EVENT 11 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189873
+#EXTINF:-1,|SW| C MORE EVENT 12 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189874
+#EXTINF:-1,|SW| C MORE EVENT 13 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189875
+#EXTINF:-1,|SW| C MORE EVENT 14 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189876
+#EXTINF:-1,|SW| C MORE EVENT 15 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189877
+#EXTINF:-1,|SW| C MORE EVENT 16 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189878
+#EXTINF:-1,|SW| C MORE EVENT 17 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189879
+#EXTINF:-1,|SW| C MORE EVENT 18 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189880
+#EXTINF:-1,|SW| C MORE EVENT 19 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189881
+#EXTINF:-1,|SW| C MORE EVENT 20 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189882
+#EXTINF:-1,|SW| C MORE EVENT 21 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189883
+#EXTINF:-1,|SW| C MORE EVENT 22 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189884
+#EXTINF:-1,|SW| C MORE EVENT 23 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189885
+#EXTINF:-1,|SW| C MORE EVENT 24 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189886
+#EXTINF:-1,|SW| C MORE EVENT 25 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189887
+#EXTINF:-1,|SW| C MORE EVENT 26 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189888
+#EXTINF:-1,|SW| C MORE EVENT 27 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189889
+#EXTINF:-1,|SW| C MORE EVENT 28 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189890
+#EXTINF:-1,|SW| C MORE EVENT 29 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189891
+#EXTINF:-1,|SW| C MORE EVENT 30 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/189892
+#EXTINF:-1,=====  NORWAY  =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100974
+#EXTINF:-1,NO: NRK 1 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100976
+#EXTINF:-1,NO: NRK 1 HD (BACKUP)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100977
+#EXTINF:-1,NO: NRK 2 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100978
+#EXTINF:-1,NO: NRK 3/SUPER HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100979
+#EXTINF:-1,NO: STORTINGET HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100980
+#EXTINF:-1,NO: TV NORGE HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100981
+#EXTINF:-1,NO: TV NORGE FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100982
+#EXTINF:-1,NO: TV VISJON NORGE FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100983
+#EXTINF:-1,NO: TV2 LIVSSTIL HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100984
+#EXTINF:-1,NO: TV2 NORGE
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100985
+#EXTINF:-1,NO: TV2 NORGE HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100986
+#EXTINF:-1,NO: TV2 NYHETSKANALEN FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100987
+#EXTINF:-1,NO: TV2 ZEBRA HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100988
+#EXTINF:-1,NO: TV2 ZEBRA FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100989
+#EXTINF:-1,NO: TV3 FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100990
+#EXTINF:-1,NO: TV6
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100991
+#EXTINF:-1,NO: VIASAT 4
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100992
+#EXTINF:-1,NO: VIASAT 4 FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100993
+#EXTINF:-1,NO: VOX FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100994
+#EXTINF:-1,===== NO ENTERTAINMENT =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100995
+#EXTINF:-1,NO: TLC FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100996
+#EXTINF:-1,===== NO MOVIES =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100997
+#EXTINF:-1,NO: C MORE FIRST FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100998
+#EXTINF:-1,NO: C MORE HITS FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100999
+#EXTINF:-1,NO: C MORE SERIES FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101000
+#EXTINF:-1,NO: C MORE STARS FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101001
+#EXTINF:-1,NO: VIASAT SERIES FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101002
+#EXTINF:-1,NO: KANAL 10
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101003
+#EXTINF:-1,NO: FEM HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101004
+#EXTINF:-1,NO: NORWAY LIVE
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101005
+#EXTINF:-1,NO: NICK JR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101006
+#EXTINF:-1,NO: MATKANALEN
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101007
+#EXTINF:-1,NO: MAX HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101008
+#EXTINF:-1,NO: MAX FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101009
+#EXTINF:-1,NO: SF-KANALEN
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101010
+#EXTINF:-1,===== NO DOCUMETARY =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101011
+#EXTINF:-1,NO: BBC BRIT FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101012
+#EXTINF:-1,NO: BBC EARTH HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101013
+#EXTINF:-1,NO: ANIMAL PLANET FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101014
+#EXTINF:-1,NO: DISCOVERY CHANNEL FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101015
+#EXTINF:-1,NO: DISCOVERY SCIENCE
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101016
+#EXTINF:-1,NO: H2 FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101018
+#EXTINF:-1,NO: HISTORY FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101019
+#EXTINF:-1,NO: NATIONAL GEOGRAPHIC FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101020
+#EXTINF:-1,NO: NATIONAL GEOGRAPHIC WILD HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101021
+#EXTINF:-1,NO: VIASAT NATURE
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101022
+#EXTINF:-1,NO: VIASAT HISTORY
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101023
+#EXTINF:-1,NO: VIASAT EXPLORE
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101024
+#EXTINF:-1,===== NO KIDS =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101025
+#EXTINF:-1,NO: DISNEY CHANNEL
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101026
+#EXTINF:-1,NO: DISNEY JUNIOR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101027
+#EXTINF:-1,NO: BOOMERANG
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101028
+#EXTINF:-1,NO: NICKELODEON
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101029
+#EXTINF:-1,NO: NICKTOONS
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101030
+#EXTINF:-1,===== NO MUSIC =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101031
+#EXTINF:-1,NO: MTV HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101032
+#EXTINF:-1,|NO| MTV BASE HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195274
+#EXTINF:-1,|NO| MTV ROCKS HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195275
+#EXTINF:-1,|NO| MTV DANCE HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195276
+#EXTINF:-1,|NO| MTV HITS HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195277
+#EXTINF:-1,|NO| MTV 80S HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195278
+#EXTINF:-1,|NO| MTV 00S HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195279
+#EXTINF:-1,===== NO SPORTS =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101033
+#EXTINF:-1,NO:  TV2 SPORT PREMIUM 2 HD VIP
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101034
+#EXTINF:-1,NO:  TV2 SPORT PREMIUM  HD VIP
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101035
+#EXTINF:-1,NO: VIASAT GOLF HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101038
+#EXTINF:-1,NO: VIASAT HOCKEY HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101039
+#EXTINF:-1,NO: EUROSPORT 1 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101040
+#EXTINF:-1,NO: EUROSPORT N FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/101042
+#EXTINF:-1,NO: RIKSTOTO DIREKTE HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/139551
+#EXTINF:-1,NO: VIASPORT 1 NORGE HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/139552
+#EXTINF:-1,NO: VIASPORT 2 NORGE HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/139553
+#EXTINF:-1,NO: VIASPORT 3 NORGE HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/139554
+#EXTINF:-1,NO: VIASPORT PLUS  HD VIP
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/139555
+#EXTINF:-1,NO: TV2 SPORT PREMIUM 2 HD VIP
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/139556
+#EXTINF:-1,NO: TV 2 SPORT 1 NORWAY
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/139557
+#EXTINF:-1,NO: TV 2 SPORT 2 NORWAY
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/139558
+#EXTINF:-1,|NO| VIASAT SPORT PREMIUM HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195258
+#EXTINF:-1,|NO| VIASAT FOTBOLL HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195259
+#EXTINF:-1,|NO| VIASAT MOTOR FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195260
+#EXTINF:-1,|NO| VIASAT SPORT 3 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195263
+#EXTINF:-1,|NO| VIASAT SPORT PLUS HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195264
+#EXTINF:-1,|NO| BILKANALEN AUTO MOTOR OG SPORT TV HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195273
+#EXTINF:-1,|NO| TV2 Play Sport 01 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195326
+#EXTINF:-1,|NO| TV2 Play Sport 02 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195327
+#EXTINF:-1,|NO| TV2 Play Sport 03 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195328
+#EXTINF:-1,|NO| TV2 Play Sport 04 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195329
+#EXTINF:-1,|NO| TV2 Play Sport 05 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195330
+#EXTINF:-1,|NO| TV2 Play Sport 06 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195331
+#EXTINF:-1,|NO| TV2 Play Sport 07 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195332
+#EXTINF:-1,|NO| TV2 Play Sport 08 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195333
+#EXTINF:-1,|NO| TV2 Play Sport 09 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195334
+#EXTINF:-1,|NO| TV2 Play Sport 10 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195335
+#EXTINF:-1,|NO| TV2 Play Sport 11 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195336
+#EXTINF:-1,|NO| TV2 Play Sport 12 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195337
+#EXTINF:-1,|NO| TV2 Play Sport 13 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195338
+#EXTINF:-1,|NO| TV2 Play Sport 14 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195339
+#EXTINF:-1,|NO| TV2 Play Sport 15 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195340
+#EXTINF:-1,|NO| TV2 Play Sport 16 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195341
+#EXTINF:-1,|NO| TV2 Play Sport 17 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195342
+#EXTINF:-1,|NO| TV2 Play Sport 18 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195343
+#EXTINF:-1,|NO| TV2 Play Sport 19 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195344
+#EXTINF:-1,|NO| TV2 Play Sport 20 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195345
+#EXTINF:-1,|NO| TV2 Play Sport 21 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195346
+#EXTINF:-1,|NO| TV2 Play Sport 22 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195347
+#EXTINF:-1,|NO| TV2 Play Sport 23 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195348
+#EXTINF:-1,|NO| TV2 Play Sport 24 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195349
+#EXTINF:-1,|NO| TV2 Play Sport 25 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195350
+#EXTINF:-1,|NO| TV2 Play Sport 26 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195351
+#EXTINF:-1,|NO| TV2 Play Sport 27 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195352
+#EXTINF:-1,|NO| TV2 Play Sport 28 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195353
+#EXTINF:-1,|NO| TV2 Play Sport 29 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195354
+#EXTINF:-1,|NO| TV2 Play Sport 30 (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195355
+#EXTINF:-1,|NO| STRIVE SPORT 1 FHD (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195356
+#EXTINF:-1,|NO| STRIVE SPORT 2 FHD (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195357
+#EXTINF:-1,|NO| STRIVE SPORT 3 FHD (Event Only)
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/195358
+#EXTINF:-1,===== DENMARK =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/99995
+#EXTINF:-1,|DK| DR1
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/99997
+#EXTINF:-1,|DK| DR2
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/99998
+#EXTINF:-1,|DK| TV2 NEWS
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/99999
+#EXTINF:-1,|DK| TV2 CHARLIE
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100000
+#EXTINF:-1,|DK| TV 2 FRI
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100001
+#EXTINF:-1,|DK| TV2 LORRY DANMARK
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100002
+#EXTINF:-1,|DK| TV2 ZULU
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100003
+#EXTINF:-1,|DK| TV2
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100004
+#EXTINF:-1,|DK| TV3
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100005
+#EXTINF:-1,|DK| TV3 +
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/151209
+#EXTINF:-1,|DK| TV3 PULS
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100006
+#EXTINF:-1,|DK| ØSTJYLAND SD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/192706
+#EXTINF:-1,|DK| TV2 ØST HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/192707
+#EXTINF:-1,|DK| BBC WORLD SD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/192708
+#EXTINF:-1,|DK| DANSKE KLASSIKKER 1
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100007
+#EXTINF:-1,|DK| DANSKE KLASSIKKER 2
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100008
+#EXTINF:-1,|DK| DANSKE KLASSIKKER 3
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100009
+#EXTINF:-1,|DK| DANSKE KLASSIKKER 4
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100010
+#EXTINF:-1,|DK| DANSKE KLASSIKKER 5
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100011
+#EXTINF:-1,|DK| DR RAMASJANG
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100012
+#EXTINF:-1,|DK| XEE
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100013
+#EXTINF:-1,===== DK ENTERTAINMENT =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100014
+#EXTINF:-1,|DK| TLC
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100015
+#EXTINF:-1,|DK| 6 EREN
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100016
+#EXTINF:-1,|DK| CANAL 9
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100017
+#EXTINF:-1,|DK| DK4
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100018
+#EXTINF:-1,|DK| KANAL 4
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100019
+#EXTINF:-1,|DK| KANAL 5
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100020
+#EXTINF:-1,|DK| VIASAT EXPLORE
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100021
+#EXTINF:-1,|DK| TV3 MAX
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100022
+#EXTINF:-1,===== DK DOCUMENTARY =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100023
+#EXTINF:-1,|DK| BBC BRITH
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100024
+#EXTINF:-1,|DK| BBC EARTH
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100025
+#EXTINF:-1,|DK| DISCOVERY CHANNEL
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100026
+#EXTINF:-1,|DK| DISCOVERY SCIENCE
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100027
+#EXTINF:-1,|DK| VIASAT HISTORY
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100028
+#EXTINF:-1,|DK| VIASAT NATURE
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100029
+#EXTINF:-1,|DK| ANIMAL PLANET
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100030
+#EXTINF:-1,|DK| NAT GEO WILD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100031
+#EXTINF:-1,|DK| NATIONAL GEOGRAPHIC
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100032
+#EXTINF:-1,|DK| INVESTIGATION DISCOVERY
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100033
+#EXTINF:-1,|DK| HISTORY 2
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/192709
+#EXTINF:-1,===== DK KIDS =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100034
+#EXTINF:-1,|DK| DISNEY CHANNEL DANMARK
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100035
+#EXTINF:-1,|DK| DISNEY JR DANMARK
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100036
+#EXTINF:-1,|DK| BOOMERANG
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100038
+#EXTINF:-1,|DK| NICK JR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100039
+#EXTINF:-1,|DK| NICKELODEON HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100040
+#EXTINF:-1,|DK| CARTOON NETWORK
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100041
+#EXTINF:-1,|DK| BOOMBRANG SD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/192710
+#EXTINF:-1,===== DK MOVIES =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100042
+#EXTINF:-1,|DK| C MORE FIRST
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100043
+#EXTINF:-1,|DK| C MORE HITS HD DK
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100044
+#EXTINF:-1,|DK| C MORE SERIES DK
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100045
+#EXTINF:-1,|DK| C MORE STARS HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100046
+#EXTINF:-1,|DK| VIASAT FILM ACTION
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100047
+#EXTINF:-1,|DK| VIASAT FILM FAMILLY
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100048
+#EXTINF:-1,|DK| VIASAT FILM HITS
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100049
+#EXTINF:-1,|DK| VIASAT FILM PREMIERA
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100050
+#EXTINF:-1,|DK| VIASAT SERIES
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100051
+#EXTINF:-1,|DK| PARAMOUNT+ MOVIES HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/175433
+#EXTINF:-1, |DK| PARAMOUNT+ SERIES HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/175435
+#EXTINF:-1, |DK| SNAP TIME 1 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/175436
+#EXTINF:-1, |DK| SNAP TIME 2 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/175437
+#EXTINF:-1, |DK| SNAP TIME 3 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/175438
+#EXTINF:-1, |DK| SNAP TIME 4 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/175439
+#EXTINF:-1, |DK| SNAP TIME 5 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/175440
+#EXTINF:-1,===== DK MUSIC =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100053
+#EXTINF:-1,|DK| MTV
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100054
+#EXTINF:-1,|DK| VH1 DANMARK
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100055
+#EXTINF:-1,|DK| MTV 80S SD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/192711
+#EXTINF:-1,===== DK SPORTS =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100056
+#EXTINF:-1,|DK| EUROSPORT 1
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100057
+#EXTINF:-1,|DK| EUROSPORT 2
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100058
+#EXTINF:-1,|DK| TV2 SPORT
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100060
+#EXTINF:-1,|DK| TV2 SPORT X
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100061
+#EXTINF:-1,|DK| TV3 SPORT 1
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100062
+#EXTINF:-1,|DK| MOTORVISION TV
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/192712
+#EXTINF:-1,|DK| VIASAT GOLF
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100065
+#EXTINF:-1,===== FINLAND =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100066
+#EXTINF:-1,FI: YLE TV FEM
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100068
+#EXTINF:-1,FI: YLE TV1 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100069
+#EXTINF:-1,FI: YLE TV2 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100070
+#EXTINF:-1,FI: SF-KANALEN  [MULTI-SUB]
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100071
+#EXTINF:-1,FI: LIV
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100072
+#EXTINF:-1,FI: NELONEN
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100073
+#EXTINF:-1,===== FI RNTERTAINMENT =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100074
+#EXTINF:-1,FI: SUB
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100075
+#EXTINF:-1,===== FI DOCUMETARY =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100076
+#EXTINF:-1,FI: NATIONAL GEOGRAPHIC HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100077
+#EXTINF:-1,FI: DISCOVERY CHANNEL
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100078
+#EXTINF:-1,FI: VIASAT EXPLORER
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100079
+#EXTINF:-1,FI: VIASAT HISTORY
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100080
+#EXTINF:-1,===== FI KIDS =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100081
+#EXTINF:-1,FI: DISNEY CHANNEL
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100082
+#EXTINF:-1,FI: NICK JR. NORDIC
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100083
+#EXTINF:-1,===== FI MOVES =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100084
+#EXTINF:-1,FI: C MORE FIRST FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100085
+#EXTINF:-1,FI: C MORE HITS HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100086
+#EXTINF:-1,FI: C MORE JUNIORI
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100087
+#EXTINF:-1,FI: C MORE MAX HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100088
+#EXTINF:-1,FI: C MORE MAX FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100089
+#EXTINF:-1,|FI| PARAMOUNT+ SERIES HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/218162
+#EXTINF:-1,|FI| PARAMOUNT+ MOVIES HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/218163
+#EXTINF:-1,===== FI MUSIC =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100090
+#EXTINF:-1,FI: MTV3 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100091
+#EXTINF:-1,FI: JIM
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100092
+#EXTINF:-1,===== FI SPORTS =====
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100093
+#EXTINF:-1,FI: C MORE SPORT 1 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100094
+#EXTINF:-1,FI: C MORE SPORT 1 FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100095
+#EXTINF:-1,FI: C MORE SPORT 2 FHD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100096
+#EXTINF:-1,FI: VIASAT SPORT PREMIUM HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100097
+#EXTINF:-1,FI: VIASAT HOCKEY HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/100098
+#EXTINF:-1,|FI| C MORE MAX 2 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/218099
+#EXTINF:-1,|FI| EUROSPORT 1 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/218100
+#EXTINF:-1,|FI| EUROSPORT 2 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/218101
+#EXTINF:-1,|FI| VIASAT SPORT JALKAPALLO
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/218102
+#EXTINF:-1,|FI| V SPORT URHEILU HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/218103
+#EXTINF:-1,|FI| V SPORT JAKIEKKO HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/218104
+#EXTINF:-1,|FI| V SPORT GOLF HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/218105
+#EXTINF:-1,|FI| V SPORT FOOTBALL HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/218106
+#EXTINF:-1,|FI| V SPORT 1 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/218107
+#EXTINF:-1,|FI| TELIA LIIGA STUDIO HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/218108
+#EXTINF:-1,|FI| TELIA LIIGA 1 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/218109
+#EXTINF:-1,|FI| TELIA LIIGA 2 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/218110
+#EXTINF:-1,|FI| TELIA LIIGA 3 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/218111
+#EXTINF:-1,|FI| TELIA LIIGA 4 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/218112
+#EXTINF:-1,|FI| TELIA LIIGA 5 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/218113
+#EXTINF:-1,|FI| TELIA LIIGA 6 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/218114
+#EXTINF:-1,|FI| TELIA LIIGA 7 HD
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/218115
